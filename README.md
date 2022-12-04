@@ -2,12 +2,12 @@
 
 more info: https://rentry.co/nocrypt
 
-<a target="_blank" href="https://colab.research.google.com/github/NoCrypt/sd-webui-colab/blob/main/sd_webui_colab.ipynb">
+<a target="_blank" href="">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 #
-[![](https://i.ibb.co/R0RX65D/New-Project.webp)](https://colab.research.google.com/github/NoCrypt/sd-webui-colab/blob/main/sd_webui_colab.ipynb)
+[![](https://i.ibb.co/R0RX65D/New-Project.webp)](https://colab.research.google.com/github/ZyCromerZ/sd-webui-colab/blob/main/sd_webui_colab.ipynb)
 
 ## Features:
 - ~5 minutes startup time guaranteed.
